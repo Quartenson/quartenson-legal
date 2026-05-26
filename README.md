@@ -76,8 +76,7 @@ addresses before publishing:
 
 | Placeholder | Used in |
 |-------------|---------|
-| `quartenson.support@gmail.com` | Privacy Policy |
-| `quartenson.support@gmail.com` | Homepage, Terms, footer |
+| `quartenson.support@gmail.com` | All pages (privacy, support, contact) |
 
 ## License
 
